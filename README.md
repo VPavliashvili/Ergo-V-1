@@ -23,7 +23,6 @@ This keyboard is derived from [Ergo-S-1](https://github.com/wizarddata/Ergo-S-1)
   - [Now its time to start soldering rows and columns matrix](#now-its-time-to-start-soldering-rows-and-columns-matrix)
   - [Flash pro micros and prepare for final gpio soldering](#flash-pro-micros-and-prepare-for-final-gpio-soldering)
   - [Final touches](#final-touches)
-- [Gallery](#gallery)
 - [License](#license)
   - [Additional Attribution](#additional-attribution)
 
