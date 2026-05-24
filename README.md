@@ -143,9 +143,8 @@ Finished rows and columns should look like this
 
   At first you need to flash firmware on the pro micro (sometimes you might get faulty one unfortunately and its better to test it before actually soldering it to any of the component)
   * To flash it plug it into the pc
-  * Clone this git repo (it's a fork of main QMK branch, temporarily it will only support this (new) keyboard before sending Pull Request to them and merging it)
-  https://github.com/VPavliashvili/qmk_firmware/tree/add_ergo_v_1_keyboard  
-  then navigate to [Ergo-V-1 directory](https://github.com/VPavliashvili/qmk_firmware/blob/add_ergo_v_1_keyboard/keyboards/handwired/ergo_v_1/readme.md) and follow the given instructions (it's very similar to dactyl-manuform flashing process)
+  * [Setup QMK](https://docs.qmk.fm/newbs_getting_started) for your machine if you are not already using it  
+  then navigate to [Ergo-V-1 directory](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/ergo_v_1) and follow the given instructions (it's very similar to dactyl-manuform flashing process)
   * Then run the `lsusb` command and you should see something like this (if you are on windows/mac check the connected devices)
     > Bus 001 Device 031: ID feed:97c4 wizardkeyboards Ergo-V-1
 
